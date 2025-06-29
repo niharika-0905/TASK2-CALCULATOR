@@ -12,6 +12,13 @@ Clear (`C`) button to reset input
 Simple JavaScript logic using `eval()`
 
 
+=> Technologies Used
+
+HTML5: Markup structure
+
+CSS3: Styling and layout
+
+
 => Project Structure
 
 calculator/
